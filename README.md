@@ -1,15 +1,15 @@
 # 镜像代理
 
 ## HTTP
-https://```raw.githubusercontent.com/canghailan/proxy-mirror/master/README.md```
+https:// ```raw.githubusercontent.com/canghailan/proxy-mirror/master/README.md```
 
-http://localhost/mirror/```raw.githubusercontent.com/canghailan/proxy-mirror/master/README.md```
+http://localhost/mirror/ ```raw.githubusercontent.com/canghailan/proxy-mirror/master/README.md```
 
 
 ## GIT
-https://```github.com/canghailan/proxy-mirror.git```
+https:// ```github.com/canghailan/proxy-mirror.git```
 
-http://localhost/git-zip/```github.com/canghailan/proxy-mirror.git```
+http://localhost/git-zip/ ```github.com/canghailan/proxy-mirror.git```
 
 
 ## CDN加速
